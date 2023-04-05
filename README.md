@@ -1,6 +1,6 @@
 # background-process-example
 
-This repository contains sample code that accompanies our [**Building a background processing pipeline with DragonflyDB**](https:dummyurl) tutorial.
+This repository contains sample code that accompanies our [**Building a background processing pipeline with DragonflyDB**](https://www.dragonflydb.io/blog/building-a-background-processing-pipeline-with-dragonfly) tutorial.
 
 In particular, this repository contains the sample code for:
 
